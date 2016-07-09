@@ -7,3 +7,6 @@ img, table {
     max-width: 320px;
 } 
 
+.mobile_hidden {
+    display: none;
+} 
