@@ -4,9 +4,9 @@ body {
 } 
 
 img, table {
-    max-width: 280px;
+    max-width: 320px;
 } 
 
-.mobile_hidden {
-    display: none;
-} 
+h1 {
+    white-space: nowrap;
+}
