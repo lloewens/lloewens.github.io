@@ -10,7 +10,7 @@ Mortgage Contracts and Household Net Worth
 Understanding the Debt Growth that Preceded the Great Recession: Empirical Issues<br />
 <i>With Christopher L. Foote and Paul S. Willen</i>
 
-Home Equity and Small Business Finance
+Home Equity and Small Business Finance<br />
 <i>With Debarshi Nandy</i>
 
 ## Working Papers 
