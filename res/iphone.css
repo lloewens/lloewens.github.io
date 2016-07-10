@@ -9,4 +9,15 @@ img, table {
 
 h1 {
     white-space: nowrap;
+    height: 100px;
+    width: 100px;
+}
+
+header ul.navigation {
+	display:block;
+	text-align: left;
+	float: right;
+	line-height: 50px;
+	margin-top: 50px;
+	font-family: helvetica, sans-serif;
 }
