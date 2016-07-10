@@ -99,6 +99,8 @@ header {
     display:block;
     text-align: left;
     float: right;
+    height: 10px;
+    width: 50px;
     line-height: 50px;
     margin-top: 50px;
     font-family: helvetica, sans-serif;
