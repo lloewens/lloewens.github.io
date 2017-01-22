@@ -20,7 +20,7 @@ Over the last few decades, credit unions have become more prominent as depositor
 
 
 <a href="https://www.bostonfed.org/publications/research-department-working-paper/2016/cross-sectional-patterns-of-mortgage-debt-during-the-housing-boom-evidence-and-implications.aspx"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
-<i>With Christopher L. Foote and Paul S. Willen</i>
+<i>With Christopher L. Foote and Paul S. Willen</i><br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
 
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2501520"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
