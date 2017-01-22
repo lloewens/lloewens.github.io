@@ -3,8 +3,6 @@ layout: dirindex
 fb_comments: 3
 ---
 
-## Current Research
-
 Consumption Responses to House Price Changes
 
 Estimating the Relationship Between Mortgage Debt and Income<br />
