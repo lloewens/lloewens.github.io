@@ -1,9 +1,7 @@
 ---
-layout: dirindex
+layout: page
 fb_comments: 2
 ---
-
-
 
 ## Current Research
 
