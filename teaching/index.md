@@ -1,5 +1,5 @@
 ---
-layout: dirindex
+layout: page
 ---
 
 ## Instructor 
