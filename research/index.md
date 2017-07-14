@@ -4,12 +4,12 @@ layout: page
 
 ## Current Research
 
-Housing Consumption Before and During the Great Recession 
+Housing Consumption During the Boom and Bust: Evidence and Implications
 
-Estimating the Relationship Between Mortgage Debt and Income<br />
+The Evolving Role of Income in Mortgage Underwriting<br />
 <i>With Christopher L. Foote and Paul S. Willen</i>
 
-The Rent-Price Ratio During the Boom and Bust<br />
+The Rent-Price Ratio During the Boom and Bust: Measurement and Implications<br />
 <i>With Jaclyn Begley and Paul S. Willen</i>
 
 ## Working Papers 
