@@ -10,7 +10,7 @@ The Evolving Role of Income in Mortgage Underwriting<br />
 <i>With Christopher L. Foote and Paul S. Willen</i>
 
 The Rent-Price Ratio During the Boom and Bust: Measurement and Implications<br />
-<i>With Jaclyn Begley and Paul S. Willen</i>
+<i>With Jaclene Begley and Paul S. Willen</i>
 
 ## Working Papers 
 
