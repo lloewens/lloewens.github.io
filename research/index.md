@@ -4,15 +4,19 @@ layout: page
 
 ## Current Research
 
-Housing Consumption During the Boom and Bust: Evidence and Implications
-
 The Evolving Role of Income in Mortgage Underwriting<br />
 <i>With Christopher L. Foote and Paul S. Willen</i>
 
 The Rent-Price Ratio During the Boom and Bust: Measurement and Implications<br />
 <i>With Jaclene Begley and Paul S. Willen</i>
 
+Maybe Some People Shouldn't Own (3) Homes<br />
+<i>With Christopher L. Foote, Jaromir Nosal and Paul S. Willen</i>
+
 ## Working Papers 
+
+Consumption of Housing During the 2000s Boom: Evidence and Theory
+<i>Job Market Paper</i>
 
 <strong>Competition Among Retail Depository Institutions: The Market Power of Credit Unions</strong><br />
 Over the last few decades, credit unions have become more prominent as depository institutions and producers of small business loans and mortgages. This marks a significant change from the past, when their lending was dominated by small consumer loans. In response, commercial banks have expressed concern about competition from credit unions. They claim that credit unions directly compete with commercial banks and, unlike commercial banks, unfairly benefit from a tax-exempt status. While the presence of credit unions in certain areas has been growing, they remain small in size and market share relative to commercial banks. This paper uses an entry model with endogenous product choices to test whether credit unions affect the profits of national and local commercial banks and finds that credit unions are not a threat to commercial banks. 
