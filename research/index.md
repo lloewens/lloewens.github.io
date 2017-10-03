@@ -15,7 +15,7 @@ Maybe Some People Shouldn't Own (3) Homes<br />
 
 ## Working Papers 
 
-Consumption of Housing During the 2000s Boom: Evidence and Theory
+<strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong><br />
 <i>Job Market Paper</i>
 
 <strong>Competition Among Retail Depository Institutions: The Market Power of Credit Unions</strong><br />
