@@ -8,7 +8,6 @@ layout: page
 Brandeis University Summer School<br />
 <br />
 2012: <a href="Syllabus2012.pdf" target="_blank">Syllabus</a>, <a href="TeachingEvals2012.pdf" target="_blank">Evaluation</a><br />
-<br />
 2014: <a href="Syllabus2014.pdf" target="_blank">Syllabus</a>, <a href="TeachingEvals2014.pdf" target="_blank">Evaluation</a><br />
 
 
