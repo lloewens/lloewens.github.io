@@ -17,6 +17,7 @@ Maybe Some People Shouldn't Own (3) Homes<br />
 
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2017).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
+(<a href="https://drive.google.com/file/d/0B0Wl-H2RmPxAVkc0M0loNE84NGM/view?usp=sharing">Version on Google Drive</a>)
 
 <a href="https://www.bostonfed.org/publications/research-department-working-paper/2016/cross-sectional-patterns-of-mortgage-debt-during-the-housing-boom-evidence-and-implications.aspx"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
 <i>With Christopher L. Foote and Paul S. Willen</i><br />
