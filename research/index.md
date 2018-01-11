@@ -15,7 +15,7 @@ Maybe Some People Shouldn't Own (3) Homes<br />
 
 ## Working Papers 
 
-<a href="Loewenstein_Consumption of Housing During the 2000s Boom (2017).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
+<a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
 (<a href="https://drive.google.com/file/d/0B0Wl-H2RmPxAVkc0M0loNE84NGM/view?usp=sharing">Version on Google Drive</a>)
 
