@@ -4,9 +4,6 @@ layout: page
 
 ## Current Research
 
-The Evolving Role of Income in Mortgage Underwriting<br />
-<i>With Christopher L. Foote and Paul S. Willen</i>
-
 The Rent-Price Ratio During the Boom and Bust: Measurement and Implications<br />
 <i>With Jaclene Begley and Paul S. Willen</i>
 
@@ -18,6 +15,9 @@ Maybe Some People Shouldn't Own (3) Homes<br />
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
 (<a href="https://drive.google.com/open?id=1kb0efewQ-EUJ1IprCE_Nom7QQOLlM3fJ">Version on Google Drive</a>)
+
+<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2018-working-papers/wp-1816-technological-innovation-in-mortgage-underwriting.aspx"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
+<i>With Christopher L. Foote and Paul S. Willen</i><br />
 
 <a href="https://www.bostonfed.org/publications/research-department-working-paper/2016/cross-sectional-patterns-of-mortgage-debt-during-the-housing-boom-evidence-and-implications.aspx"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
 <i>With Christopher L. Foote and Paul S. Willen</i><br />
