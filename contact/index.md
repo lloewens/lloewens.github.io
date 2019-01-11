@@ -8,6 +8,6 @@ title: Contact
 ## On the web
 
 - [LinkedIn](https://www.linkedin.com/in/laraloewenstein)
-- [Twitter](https://twitter.com/LaraAtLarge)
+- [Twitter](https://twitter.com/LaraLoewenstein)
 - [Facebook](https://www.facebook.com/lara.loewenstein)
 - [Google Scholar](https://scholar.google.com/citations?user=95TtnYcAAAAJ&hl=en&oi=ao)
