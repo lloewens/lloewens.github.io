@@ -4,10 +4,14 @@ layout: page
 
 ## Publications 
 
-<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2019-working-papers/wp-1919-cross-sectional-patterns-of-mortgage-debt-during-the-housing-boom.aspx"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
+<a href="https://academic.oup.com/restud/article/88/1/229/5889966?login=true"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
 <i>With Christopher L. Foote and Paul S. Willen</i><br />
-Review of Economic Studies (forthcoming)<br />
+Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
+<i>With Kristopher Gerardi and Paul S. Willen</i><br />
+Housing Policy Debate (2021)<br />
 
 ## Working Papers 
 
@@ -21,10 +25,7 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2501520"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
 <i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i>
 
-## Current Research
+## Other Publications 
 
-The Rent-Price Ratio During the Boom and Bust: Measurement and Implications<br />
-<i>With Jaclene Begley and Paul S. Willen</i>
+<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202025-subprime-not-cause-of-housing-crisis.aspx?utm_source=cfd&utm_medium=email&utm_campaign=ClevelandFedDigest"><strong>Subprime May Not Have Caused the 2000s Housing Crisis: Evidence from Cleveland, Ohio</strong></a><br />
 
-Maybe Some People Shouldn't Own (3) Homes<br />
-<i>With Christopher L. Foote, Jaromir Nosal and Paul S. Willen</i>
