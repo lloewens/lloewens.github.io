@@ -27,7 +27,7 @@ Housing Policy Debate (2021)<br />
 
 ## Other Publications 
 
-<a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/2021-economic-commentaries/ec-202115-no-nonbank-mortgage-servicer-liquidity-crisis.aspx"><strong>Why Wasn’t there a Nonbank Mortgage Servicer Liquidity Crisis?</strong></a><br />
+<a href="https://doi.org/10.26509/frbc-ec-202115"><strong>Why Wasn’t there a Nonbank Mortgage Servicer Liquidity Crisis?</strong></a><br />
 <i>Cleveland Fed Economic Commentary, 2021</i><br />
 
 <a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202025-subprime-not-cause-of-housing-crisis.aspx?utm_source=cfd&utm_medium=email&utm_campaign=ClevelandFedDigest"><strong>Subprime May Not Have Caused the 2000s Housing Crisis: Evidence from Cleveland, Ohio</strong></a><br />
