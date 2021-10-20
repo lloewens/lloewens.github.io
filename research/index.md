@@ -15,6 +15,9 @@ Housing Policy Debate (2021)<br />
 
 ## Working Papers 
 
+<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2021-working-papers/wp-2120-recourse-as-shadow-equity.aspx#:~:text=Recourse%20as%20Shadow%20Equity%3A%20Evidence%20from%20Commercial%20Real%20Estate%20Loans,-09.27.21&text=We%20study%20the%20role%20that,a%20substitute%20for%20conventional%20equity." target="_blank"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
+<i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
+
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
 (<a href="https://drive.google.com/open?id=1kb0efewQ-EUJ1IprCE_Nom7QQOLlM3fJ">Version on Google Drive</a>)
