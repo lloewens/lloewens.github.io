@@ -15,6 +15,10 @@ Housing Policy Debate (2021)<br />
 
 ## Working Papers 
 
+<a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
+  the Shadow of COVID-19</strong></a><br />
+  <i>With Timothy Riddiough and Paul S. Willen</i><br />
+
 <a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2021-working-papers/wp-2120-recourse-as-shadow-equity.aspx#:~:text=Recourse%20as%20Shadow%20Equity%3A%20Evidence%20from%20Commercial%20Real%20Estate%20Loans,-09.27.21&text=We%20study%20the%20role%20that,a%20substitute%20for%20conventional%20equity." target="_blank"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
 <i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
 
