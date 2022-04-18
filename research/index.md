@@ -15,6 +15,9 @@ Housing Policy Debate (2021)<br />
 
 ## Working Papers 
 
+<a href = "https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2022-working-papers/wp-2209-loan-modifications-and-the-commercial-real-estate-market" target = "_blank"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
+  <i>With David Glancy and Robert Kurtzman</i><br />
+
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
   the Shadow of COVID-19</strong></a><br />
   <i>With Timothy Riddiough and Paul S. Willen</i><br />
