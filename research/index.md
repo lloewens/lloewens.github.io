@@ -13,6 +13,10 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 <i>With Kristopher Gerardi and Paul S. Willen</i><br />
 Housing Policy Debate (2021)<br />
 
+<a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2501520"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
+<i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
+Forthcoming in the Journal of Cultural Economics<br />
+
 ## Working Papers 
 
 <a href = "https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2022-working-papers/wp-2209-loan-modifications-and-the-commercial-real-estate-market" target = "_blank"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
@@ -32,8 +36,7 @@ Housing Policy Debate (2021)<br />
 <a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2018-working-papers/wp-1816-technological-innovation-in-mortgage-underwriting.aspx"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
 <i>With Christopher L. Foote and Paul S. Willen</i><br />
 
-<a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2501520"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
-<i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i>
+
 
 ## Other Publications 
 
