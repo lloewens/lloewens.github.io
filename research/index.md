@@ -13,9 +13,9 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 <i>With Kristopher Gerardi and Paul S. Willen</i><br />
 Housing Policy Debate (2021)<br />
 
-<a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2501520"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
+<a href="https://trebuchet.public.springernature.app/get_content/742bd036-1638-417d-b80f-b883ca5290ff"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
 <i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
-Forthcoming in the Journal of Cultural Economics<br />
+Journal of Cultural Economics (2022)<br />
 
 ## Working Papers 
 
