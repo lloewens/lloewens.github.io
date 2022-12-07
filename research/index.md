@@ -19,21 +19,21 @@ Journal of Cultural Economics (2022)<br />
 
 ## Working Papers 
 
-<a href = "https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2022-working-papers/wp-2209-loan-modifications-and-the-commercial-real-estate-market" target = "_blank"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
+<a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With David Glancy and Robert Kurtzman</i><br />
 
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
   the Shadow of COVID-19</strong></a><br />
   <i>With Timothy Riddiough and Paul S. Willen</i><br />
 
-<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2021-working-papers/wp-2120-recourse-as-shadow-equity.aspx#:~:text=Recourse%20as%20Shadow%20Equity%3A%20Evidence%20from%20Commercial%20Real%20Estate%20Loans,-09.27.21&text=We%20study%20the%20role%20that,a%20substitute%20for%20conventional%20equity." target="_blank"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
+<a href="https://doi.org/10.26509/frbc-wp-202120"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
 <i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
 
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
 (<a href="https://drive.google.com/open?id=1kb0efewQ-EUJ1IprCE_Nom7QQOLlM3fJ">Version on Google Drive</a>)
 
-<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2018-working-papers/wp-1816-technological-innovation-in-mortgage-underwriting.aspx"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
+<a href="https://doi.org/10.26509/frbc-wp-201816"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
 <i>With Christopher L. Foote and Paul S. Willen</i><br />
 
 
@@ -46,6 +46,6 @@ Journal of Cultural Economics (2022)<br />
 <a href="https://doi.org/10.26509/frbc-ec-202115"><strong>Why Wasn’t there a Nonbank Mortgage Servicer Liquidity Crisis?</strong></a><br />
 <i>Cleveland Fed Economic Commentary, 2021</i><br />
 
-<a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202025-subprime-not-cause-of-housing-crisis.aspx?utm_source=cfd&utm_medium=email&utm_campaign=ClevelandFedDigest"><strong>Subprime May Not Have Caused the 2000s Housing Crisis: Evidence from Cleveland, Ohio</strong></a><br />
+<a href="https://doi.org/10.26509/frbc-ec-202025"><strong>Subprime May Not Have Caused the 2000s Housing Crisis: Evidence from Cleveland, Ohio</strong></a><br />
 <i>Cleveland Fed Economic Commentary, 2020</i><br />
 
