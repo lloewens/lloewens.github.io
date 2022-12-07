@@ -41,6 +41,7 @@ Journal of Cultural Economics (2022)<br />
 ## Other Publications 
 
 <a href="https://doi.org/10.26509/frbc-ec-202211"><strong>Mortgage Borrowers’ Use of COVID-19 Forbearance Programs</strong></a><br />
+<i>With Bezankeng Njinju</i><br />
 <i>Cleveland Fed Economic Commentary, 2022</i><br />
 
 <a href="https://doi.org/10.26509/frbc-ec-202115"><strong>Why Wasn’t there a Nonbank Mortgage Servicer Liquidity Crisis?</strong></a><br />
