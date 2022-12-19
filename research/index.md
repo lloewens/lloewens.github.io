@@ -19,6 +19,9 @@ Journal of Cultural Economics (2022)<br />
 
 ## Working Papers 
 
+<a href = "https://doi.org/10.26509/frbc-wp-202238"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
+ <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
+ 
 <a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With David Glancy and Robert Kurtzman</i><br />
 
