@@ -19,6 +19,9 @@ Journal of Cultural Economics (2022)<br />
 
 ## Working Papers 
 
+<a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
+<i>With Paul S. Willen</i><br />
+
 <a href = "https://doi.org/10.26509/frbc-wp-202238"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
  <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
  Press: <a href="https://www.reuters.com/markets/us/new-cleveland-fed-data-points-easing-shelter-inflation-outlook-2022-12-20/">Reuters</a>, <a href="https://www.nytimes.com/2022/12/26/opinion/is-the-inflation-storm-letting-up.html">NYT</a>
