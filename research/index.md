@@ -24,7 +24,7 @@ Journal of Cultural Economics (2022)<br />
 
 <a href = "https://doi.org/10.26509/frbc-wp-202238"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
  <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
- Press: <a href="https://www.reuters.com/markets/us/new-cleveland-fed-data-points-easing-shelter-inflation-outlook-2022-12-20/">Reuters</a>, <a href="https://www.nytimes.com/2022/12/26/opinion/is-the-inflation-storm-letting-up.html">NYT</a>, <a href="https://www.bloomberg.com/news/articles/2023-01-05/majority-of-us-renters-say-annual-bill-climbed-more-than-1-000?sref=tF5n2ZfO">Bloomberg</a>, <a href="https://marketnews.com/mni-policy-rba-eyes-rent-boom-in-fight-to-tame-inflation">MNI</a>, <a href="https://www.apricitas.io/p/the-most-important-new-inflation">Apricitas</a>
+ Press: <a href="https://www.reuters.com/markets/us/new-cleveland-fed-data-points-easing-shelter-inflation-outlook-2022-12-20/">Reuters</a>, <a href="https://www.nytimes.com/2022/12/26/opinion/is-the-inflation-storm-letting-up.html">NYT</a>, <a href="https://www.bloomberg.com/news/articles/2023-01-05/majority-of-us-renters-say-annual-bill-climbed-more-than-1-000?sref=tF5n2ZfO">Bloomberg</a>, <a href="https://marketnews.com/mni-policy-rba-eyes-rent-boom-in-fight-to-tame-inflation">MNI</a>, <a href="https://www.apricitas.io/p/the-most-important-new-inflation">Apricitas</a>, <a href="https://www.marketplace.org/2023/01/26/new-index-gets-a-more-real-time-view-of-rent-inflation/amp/">NPR</a>
  
 <a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With David Glancy and Robert Kurtzman</i><br />
