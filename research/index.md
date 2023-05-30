@@ -4,18 +4,22 @@ layout: page
 
 ## Publications 
 
-<a href="https://academic.oup.com/restud/article/88/1/229/5889966?login=true"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
-<i>With Christopher L. Foote and Paul S. Willen</i><br />
-Review of Economic Studies (2021)<br />
-Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
+<a href="https://doi.org/10.26509/frbc-wp-202120"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
+<i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
+Forthcoming, Real Estate Economics<br />
+
+<a href="https://trebuchet.public.springernature.app/get_content/742bd036-1638-417d-b80f-b883ca5290ff"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
+<i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
+Journal of Cultural Economics (2022)<br />
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
 <i>With Kristopher Gerardi and Paul S. Willen</i><br />
 Housing Policy Debate (2021)<br />
 
-<a href="https://trebuchet.public.springernature.app/get_content/742bd036-1638-417d-b80f-b883ca5290ff"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
-<i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
-Journal of Cultural Economics (2022)<br />
+<a href="https://academic.oup.com/restud/article/88/1/229/5889966?login=true"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
+<i>With Christopher L. Foote and Paul S. Willen</i><br />
+Review of Economic Studies (2021)<br />
+Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
 
 ## Working Papers 
 
@@ -33,9 +37,6 @@ Journal of Cultural Economics (2022)<br />
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
   the Shadow of COVID-19</strong></a><br />
   <i>With Timothy Riddiough and Paul S. Willen</i><br />
-
-<a href="https://doi.org/10.26509/frbc-wp-202120"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
-<i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
 
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
