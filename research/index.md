@@ -30,7 +30,8 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
- 
+Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-prices-are-historically-high-next-to-rents-don-t-panic">Bloomberg, December 2023</a> 
+
 <a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With David Glancy and Robert Kurtzman</i><br />
   Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
