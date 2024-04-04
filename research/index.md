@@ -28,12 +28,15 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 ## Working Papers 
 
+<a href = "https://www.federalreserve.gov/econres/feds/on-commercial-construction-activitys-long-and-variable-lags.htm"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
+<i> With David Glancy and Robert J. Kurtzman</i><br /> 
+
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
 Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-prices-are-historically-high-next-to-rents-don-t-panic">Bloomberg, December 2023</a> 
 
 <a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
-  <i>With David Glancy and Robert Kurtzman</i><br />
+  <i>With David Glancy and Robert J. Kurtzman</i><br />
   Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
 
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
@@ -54,6 +57,7 @@ Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-price
 <a href="https://doi.org/10.26509/frbc-ec-202404"><strong>Comparing Two House-Price Booms</strong></a><br />
 <i>With Jason Meyer</i><br />
 <i>Cleveland Fed Economic Commentary, 2023</i><br />
+press: <a href="https://finance.yahoo.com/personal-finance/why-are-house-prices-so-high-184935574.html">Yahoo Finance</a>
 
 <a href="https://doi.org/10.26509/frbc-ec-202305"><strong>Increasing the (Female) Labor Supply</strong></a><br />
 <i>Cleveland Fed Economic Commentary, 2023</i><br />
