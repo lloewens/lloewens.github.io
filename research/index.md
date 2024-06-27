@@ -28,7 +28,7 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 ## Working Papers 
 
-<a href = "https://doi.org/10.17016/FEDS.2024.016"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
+<a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
 <i> With David Glancy and Robert J. Kurtzman</i><br /> 
 
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
