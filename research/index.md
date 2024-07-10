@@ -28,6 +28,9 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 ## Working Papers 
 
+<a href="https://doi.org/10.26509/frbc-wp-202415"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
+<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
+
 <a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
 <i> With David Glancy and Robert J. Kurtzman</i><br /> 
 
