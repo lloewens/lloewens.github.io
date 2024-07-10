@@ -10,7 +10,7 @@ layout: page
  Press: <a href="https://www.reuters.com/markets/us/new-cleveland-fed-data-points-easing-shelter-inflation-outlook-2022-12-20/">Reuters</a>, <a href="https://www.nytimes.com/2022/12/26/opinion/is-the-inflation-storm-letting-up.html">NYT</a>, <a href="https://www.bloomberg.com/news/articles/2023-01-05/majority-of-us-renters-say-annual-bill-climbed-more-than-1-000?sref=tF5n2ZfO">Bloomberg</a>, <a href="https://marketnews.com/mni-policy-rba-eyes-rent-boom-in-fight-to-tame-inflation">MNI</a>, <a href="https://www.apricitas.io/p/the-most-important-new-inflation">Apricitas</a>, <a href="https://www.marketplace.org/2023/01/26/new-index-gets-a-more-real-time-view-of-rent-inflation/amp/">NPR</a>, <a href="https://www.washingtonpost.com/business/have-we-been-measuring-housing-inflation-all-wrong/2022/11/21/09fd9490-6999-11ed-8619-0b92f0565592_story.html">Washington Post</a>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12450"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
-<i>With David Glancy, Robert Kurtzman, and Joseph Nichols</i><br />
+<i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a>, <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a>, and Joseph Nichols</i><br />
 Real Estate Economics (2023)<br />
 
 <a href="https://trebuchet.public.springernature.app/get_content/742bd036-1638-417d-b80f-b883ca5290ff"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
@@ -32,14 +32,14 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 
 <a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
-<i> With David Glancy and Robert J. Kurtzman</i><br /> 
+<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br /> 
 
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
 Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-prices-are-historically-high-next-to-rents-don-t-panic">Bloomberg, December 2023</a> 
 
 <a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
-  <i>With David Glancy and Robert J. Kurtzman</i><br />
+  <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
   Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
 
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
