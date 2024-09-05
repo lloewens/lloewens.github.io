@@ -4,6 +4,10 @@ layout: page
 
 ## Publications 
 
+<a href="https://doi.org/10.26509/frbc-wp-202415"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
+<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
+Forthcoming, Real Estate Economics<br />
+
 <a href = "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aeri.20220685"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
  <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
  AER Insights (2024) <br />
@@ -27,9 +31,6 @@ Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
 
 ## Working Papers 
-
-<a href="https://doi.org/10.26509/frbc-wp-202415"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
-<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 
 <a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>On Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br /> 
