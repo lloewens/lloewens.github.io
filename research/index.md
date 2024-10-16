@@ -58,6 +58,10 @@ Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-price
 
 ## Other Publications 
 
+<a href="https://doi.org/10.26509/frbc-ec-202417"><strong>New-Tenant Rent Passthrough and the Future of Rent Inflation</strong></a><br />
+<i>With Jason Meyer and Randal Verbrugge</i><br />
+<i>Cleveland Fed Economic Commentary, 2024</i><br />
+
 <a href="https://doi.org/10.26509/frbc-ec-202404"><strong>Comparing Two House-Price Booms</strong></a><br />
 <i>With Jason Meyer</i><br />
 <i>Cleveland Fed Economic Commentary, 2023</i><br />
