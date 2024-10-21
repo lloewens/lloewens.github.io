@@ -61,7 +61,7 @@ Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-price
 <a href="https://doi.org/10.26509/frbc-ec-202417"><strong>New-Tenant Rent Passthrough and the Future of Rent Inflation</strong></a><br />
 <i>With Jason Meyer and Randal Verbrugge</i><br />
 <i>Cleveland Fed Economic Commentary, 2024</i><br />
-Press: <a href="https://www.reuters.com/markets/us/cleveland-fed-warns-sticky-rent-gains-may-pressure-overall-inflation-2024-10-16/">Reuters</a>
+Press: <a href="https://www.reuters.com/markets/us/cleveland-fed-warns-sticky-rent-gains-may-pressure-overall-inflation-2024-10-16/">Reuters</a>; <a href="https://www.axios.com/2024/10/18/high-rent-inflation-last-until-2026">Axios</a>
 
 <a href="https://doi.org/10.26509/frbc-ec-202404"><strong>Comparing Two House-Price Booms</strong></a><br />
 <i>With Jason Meyer</i><br />
