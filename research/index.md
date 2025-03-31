@@ -4,6 +4,11 @@ layout: page
 
 ## Publications 
 
+<a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
+  <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
+  Forthcoming, Journal of Financial Intermediation<br />
+  Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
+
 <a href="https://doi.org/10.1111/1540-6229.12510"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 Real Estate Economics, 2024<br />
@@ -38,10 +43,6 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
 Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-prices-are-historically-high-next-to-rents-don-t-panic">Bloomberg, December 2023</a> 
-
-<a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
-  <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
-  Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
 
 <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
   the Shadow of COVID-19</strong></a><br />
