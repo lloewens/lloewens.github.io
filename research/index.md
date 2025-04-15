@@ -4,7 +4,7 @@ layout: page
 
 ## Publications 
 
-<a href = "https://doi.org/10.26509/frbc-wp-202209"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
+<a href = "https://www.sciencedirect.com/science/article/pii/S1042957325000129"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
   Forthcoming, Journal of Financial Intermediation<br />
   Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
