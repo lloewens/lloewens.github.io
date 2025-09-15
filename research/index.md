@@ -15,7 +15,7 @@ Forthcoming, Journal of Urban Economics<br />
 
 <a href="https://doi.org/10.1111/1540-6229.12510"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
-Real Estate Economics, 2024<br />
+Real Estate Economics, 2025<br />
 
 <a href = "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aeri.20220685"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
  <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
