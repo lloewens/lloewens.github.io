@@ -41,6 +41,8 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 ## Working Papers 
 
+<a href = "https://www.bostonfed.org/publications/research-department-working-paper/2025/puzzle-underwater-mortgage-default.aspx"><strong>Is There a Puzzle in Underwater Mortgage Default?</strong></a><br />
+<i>With Paul S. Willen, Yuxi Yao, and David Hao Zhang</i><br />
 
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
