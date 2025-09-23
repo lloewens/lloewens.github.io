@@ -14,7 +14,7 @@ Forthcoming, Journal of Urban Economics<br />
 
 <a href = "https://doi.org/10.1016/j.jfi.2025.101144"><strong>Modifications and the Commercial Real Estate Market</strong></a><br />
   <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
-  Journal of Financial Intermediation (2025)<br />
+  Journal of Financial Intermediation, 2025<br />
   Press: <a href="https://www.insidemortgagefinance.com/articles/225483-to-modify-or-not-to-modify-cre-vs-cmbs?v=preview">Inside Mortgage Finance</a>
 
 <a href="https://doi.org/10.1111/1540-6229.12510"><strong>CRE Redevelopment Options and the Use of Mortgage Financing</strong></a><br /> 
