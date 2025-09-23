@@ -4,6 +4,10 @@ layout: page
 
 ## Publications 
 
+<a href="https://doi.org/10.26509/frbc-wp-201816"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
+<i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
+Forthcoming, Journal of Urban Economics<br />
+
 <a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>The value of renegotiation frictions: Evidence from commercial real estate</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br /> 
 Forthcoming, Journal of Urban Economics<br /> 
@@ -31,18 +35,18 @@ Real Estate Economics (2023)<br />
 Journal of Cultural Economics (2022)<br />
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
-<i>With Kristopher Gerardi and Paul S. Willen</i><br />
+<i>With <a href="https://sites.google.com/site/kristophergerardishomepage/">Kristopher Gerardi</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Housing Policy Debate (2021)<br />
 
 <a href="https://academic.oup.com/restud/article/88/1/229/5889966?login=true"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
-<i>With Christopher L. Foote and Paul S. Willen</i><br />
+<i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
 
 ## Working Papers 
 
 <a href = "https://www.bostonfed.org/publications/research-department-working-paper/2025/puzzle-underwater-mortgage-default.aspx"><strong>Is There a Puzzle in Underwater Mortgage Default?</strong></a><br />
-<i>With Paul S. Willen, Yuxi Yao, and David Hao Zhang</i><br />
+<i>With <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a>, <a href="https://sites.google.com/view/yuxiyao/home">Yuxi Yao</a>, and <a href="https://business.rice.edu/person/david-zhang">David Hao Zhang</a></i><br />
 
 <a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
@@ -55,11 +59,6 @@ Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-price
 <a href="Loewenstein_Consumption of Housing During the 2000s Boom (2018).pdf" target="_blank"><strong>Consumption of Housing During the 2000s Boom: Evidence and Theory</strong></a><br />
 <i>Job Market Paper</i><br />
 (<a href="https://drive.google.com/open?id=1kb0efewQ-EUJ1IprCE_Nom7QQOLlM3fJ">Version on Google Drive</a>)
-
-<a href="https://doi.org/10.26509/frbc-wp-201816"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
-<i>With Christopher L. Foote and Paul S. Willen</i><br />
-
-
 
 ## Other Publications 
 
