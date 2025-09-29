@@ -8,7 +8,7 @@ layout: page
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Forthcoming, Journal of Urban Economics<br />
 
-<a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>The value of renegotiation frictions: Evidence from commercial real estate</strong></a><br /> 
+<a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>Shovel Ready Projects and Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br /> 
 Forthcoming, Journal of Urban Economics<br /> 
 
