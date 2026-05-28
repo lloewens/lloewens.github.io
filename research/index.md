@@ -4,6 +4,10 @@ layout: page
 
 ## Publications 
 
+<a href="https://www.nber.org/papers/w35250"><strong>Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter</strong></a><br />
+<i>With Hugh Montag and Randal Verbrugge</i><br />
+Conference Volume, CRIW Conference on Measurement of Housing and the Housing Sector, Spring 2026<br />
+
 <a href="https://doi.org/10.26509/frbc-wp-201816"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Forthcoming, Journal of Urban Economics<br />
