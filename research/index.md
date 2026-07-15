@@ -49,7 +49,7 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 ## Working Papers 
 
-< href = "https://doi.org/10.26509/frbc-wp-202617"><strong>CRE Development Potential and the Selection of Opportunity Zones</strong></a><br />
+<a href = "https://doi.org/10.26509/frbc-wp-202617"><strong>CRE Development Potential and the Selection of Opportunity Zones</strong></a><br />
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 
 <a href = "https://www.bostonfed.org/publications/research-department-working-paper/2025/puzzle-underwater-mortgage-default.aspx"><strong>Is There a Puzzle in Underwater Mortgage Default?</strong></a><br />
