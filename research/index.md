@@ -4,17 +4,21 @@ layout: page
 
 ## Publications 
 
+<a href = "https://doi.org/10.26509/frbc-wp-202617"><strong>CRE Development Potential and the Selection of Opportunity Zones</strong></a><br />
+<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
+Forthcoming, Real Estate Economics<br />
+
 <a href="https://www.nber.org/papers/w35250"><strong>Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter</strong></a><br />
 <i>With Hugh Montag and Randal Verbrugge</i><br />
 Conference Volume, CRIW Conference on Measurement of Housing and the Housing Sector, Spring 2026<br />
 
-<a href="https://doi.org/10.26509/frbc-wp-201816"><strong>Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
+<a href="https://doi.org/10.1016/j.jue.2026.103886"><strong>JUE Insight: Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
-Forthcoming, Journal of Urban Economics<br />
+Journal of Urban Economics (2026)<br />
 
-<a href = "https://doi.org/10.26509/frbc-wp-202414"><strong>Shovel Ready Projects and Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
+<a href = "https://doi.org/10.1016/j.jue.2025.103816"><strong>JUE Insight: Shovel Ready Projects and Commercial Construction Activity's Long and Variable Lags</strong></a><br /> 
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br /> 
-Forthcoming, Journal of Urban Economics<br /> 
+Journal of Urban Economics (2026)<br /> 
 
 <a href = "https://doi.org/10.1016/j.jfi.2025.101144"><strong>The value of renegotiation frictions: Evidence from commercial real estate</strong></a><br />
   <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
@@ -48,9 +52,6 @@ Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
 
 ## Working Papers 
-
-<a href = "https://doi.org/10.26509/frbc-wp-202617"><strong>CRE Development Potential and the Selection of Opportunity Zones</strong></a><br />
-<i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 
 <a href = "https://www.bostonfed.org/publications/research-department-working-paper/2025/puzzle-underwater-mortgage-default.aspx"><strong>Is There a Puzzle in Underwater Mortgage Default?</strong></a><br />
 <i>With <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a>, <a href="https://sites.google.com/view/yuxiyao/home">Yuxi Yao</a>, and <a href="https://business.rice.edu/person/david-zhang">David Hao Zhang</a></i><br />
