@@ -8,10 +8,6 @@ layout: page
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 Forthcoming, Real Estate Economics<br />
 
-<a href="https://www.nber.org/papers/w35250"><strong>Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter</strong></a><br />
-<i>With Hugh Montag and Randal Verbrugge</i><br />
-Conference Volume, CRIW Conference on Measurement of Housing and the Housing Sector, Spring 2026<br />
-
 <a href="https://doi.org/10.1016/j.jue.2026.103886"><strong>JUE Insight: Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985--2015</strong></a><br />
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Journal of Urban Economics (2026)<br />
@@ -50,6 +46,13 @@ Housing Policy Debate (2021)<br />
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
+
+## Book Chapters
+
+<a href="https://www.nber.org/papers/w35250"><strong>Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter</strong></a><br />
+<i>With Hugh Montag and Randal Verbrugge</i><br />
+in \emph{Measurement of Housing and the Housing Sector}, ser. Studies in Income and Wealth, T. Garner, J. Gyourko, and S. R. Porter, Eds., Chicago: University of Chicago Press, 2026, ch. 7.<br />
+
 
 ## Working Papers 
 
