@@ -73,6 +73,9 @@ Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-price
 
 ## Other Publications 
 
+<a href="https://doi.org/10.26509/frbc-ec-202627"><strong>School Quality and Housing Affordability: Who Occupies Housing in the Best-Performing School Districts?</strong></a><br />
+<i>Cleveland Fed Economic Commentary, 2026</i><br />
+
 <a href="https://doi.org/10.26509/frbc-ec-202603"><strong>Renter Households amid Rising Rents: 2019–2023</strong></a><br />
 <i>Cleveland Fed Economic Commentary, 2026</i><br />
 
