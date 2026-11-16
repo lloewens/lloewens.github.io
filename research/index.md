@@ -51,7 +51,7 @@ Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these
 
 <a href="https://www.nber.org/papers/w35250"><strong>Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter</strong></a><br />
 <i>With Hugh Montag and Randal Verbrugge</i><br />
-in \emph{Measurement of Housing and the Housing Sector}, ser. Studies in Income and Wealth, T. Garner, J. Gyourko, and S. R. Porter, Eds., Chicago: University of Chicago Press, 2026, ch. 7.<br />
+in Measurement of Housing and the Housing Sector, ser. Studies in Income and Wealth, T. Garner, J. Gyourko, and S. R. Porter, Eds., Chicago: University of Chicago Press, 2026, ch. 7.<br />
 
 
 ## Working Papers 
