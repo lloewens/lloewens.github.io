@@ -34,9 +34,9 @@ Real Estate Economics (2025)<br />
 <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a>, <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a>, and Joseph Nichols</i><br />
 Real Estate Economics (2023)<br />
 
-<a href="https://doi.org/10.1007/s10824-022-09459-2"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
+<a href="https://doi.org/10.1007/s10824-022-09459-2"><strong>Empirical Evidence of Anchoring and Loss Aversion from Art Auctions</strong></a><br />
 <i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
-Journal of Cultural Economics (2022)<br />
+Journal of Cultural Economics (2023)<br />
 
 <a href="https://doi.org/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
 <i>With <a href="https://sites.google.com/site/kristophergerardishomepage/">Kristopher Gerardi</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
