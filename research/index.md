@@ -59,11 +59,11 @@ in Measurement of Housing and the Housing Sector, ser. Studies in Income and Wea
 <a href = "https://www.bostonfed.org/publications/research-department-working-paper/2025/puzzle-underwater-mortgage-default.aspx"><strong>Is There a Puzzle in Underwater Mortgage Default?</strong></a><br />
 <i>With <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a>, <a href="https://sites.google.com/view/yuxiyao/home">Yuxi Yao</a>, and <a href="https://business.rice.edu/person/david-zhang">David Hao Zhang</a></i><br />
 
-<a href = "https://doi.org/10.26509/frbc-wp-202302 "><strong>House Prices and Rents in the 21st Century</strong></a><br />
+<a href = "https://doi.org/10.26509/frbc-wp-202302"><strong>House Prices and Rents in the 21st Century</strong></a><br />
 <i>With Paul S. Willen</i><br />
 Press: <a href="https://www.bloomberg.com/opinion/articles/2023-12-05/home-prices-are-historically-high-next-to-rents-don-t-panic">Bloomberg, December 2023</a> 
 
-<a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyhMXX5OH2AhUmjYkEHc5PDwoQFnoECBgQAQ&url=https%3A%2F%2Fwww.bostonfed.org%2F-%2Fmedia%2FDocuments%2Fevents%2F2021%2Fleverage%2FCollateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf%3Fla%3Den&usg=AOvVaw3rikOcke0OCraPpZfyAPe4" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
+<a href = "https://www.bostonfed.org/-/media/Documents/events/2021/leverage/Collateral-Reallocation-in-Commercial-Real-Estate-in-the-Shadow-of-COVID-19.pdf" target = "_blank"><strong>Collateral Reallocation in Commercial Real Estate in
   the Shadow of COVID-19</strong></a><br />
   <i>With Timothy Riddiough and Paul S. Willen</i><br />
 

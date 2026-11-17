@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link media="only screen and (max-device-width: 480px)"
             href="/res/iphone.css" type="text/css" rel="stylesheet" /> 
-    <link rel="apple-touch-icon" href="/custom_icon.png"/>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
     <!-- {% endif %} -->
     <!-- <link href='//fonts.googleapis.com/css?family=Poly:400' rel='stylesheet' type='text/css'> -->
     <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
@@ -18,15 +18,11 @@
     <link rel="stylesheet" media="print" href="/res/print.css" type="text/css">
     <link rel="alternate" type="application/atom+xml" title="Lara Loewenstein" href="/atom.xml">
     <link rel="shortcut icon" href="/favicon.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/res/apple-touch-icon-114x114-precomposed.png">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@laraatlarge">
     {% if page.ios_app_name %}
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     {% endif %}
-    <meta property="fb:admins" content="728642302">
-    <meta property="fb:app_id" content="38027689216">
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
       {% if page.description %}
@@ -37,7 +33,7 @@
       <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
       {% endif %}
     {% else %}
-      <meta name="description" content="Ramblings by Lara Loewenstein">
+      <meta name="description" content="Lara Loewenstein is an economist at the Federal Reserve Bank of Cleveland whose work focuses on residential and commercial real estate.">
     {% endif %}
     {% if page.og_image_url %}
     <meta property="og:image" content="{{ page.og_image_url }}">
@@ -92,8 +88,6 @@
     </footer>
     {% endunless %}
     
-    {% include highlight.html %}
-    {% include analytics.html %}
     <script>for (var k in window.initFuncs) { window.initFuncs[k](); } delete window.initFuncs;</script>
   </body>
 </html>
