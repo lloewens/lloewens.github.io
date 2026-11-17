@@ -25,24 +25,24 @@ Journal of Urban Economics (2026)<br />
 <i> With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a> and <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a></i><br />
 Real Estate Economics (2025)<br />
 
-<a href = "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aeri.20220685"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
+<a href = "https://doi.org/10.1257/aeri.20220685"><strong>Disentangling Rent Index Differences: Data, Methods, and Scope</strong></a><br />
  <i>With Brian Adams, Hugh Montag, and Randal Verbrugge</i><br />
  AER Insights (2024) <br />
  Press: <a href="https://www.reuters.com/markets/us/new-cleveland-fed-data-points-easing-shelter-inflation-outlook-2022-12-20/">Reuters</a>, <a href="https://www.nytimes.com/2022/12/26/opinion/is-the-inflation-storm-letting-up.html">NYT</a>, <a href="https://www.bloomberg.com/news/articles/2023-01-05/majority-of-us-renters-say-annual-bill-climbed-more-than-1-000?sref=tF5n2ZfO">Bloomberg</a>, <a href="https://marketnews.com/mni-policy-rba-eyes-rent-boom-in-fight-to-tame-inflation">MNI</a>, <a href="https://www.apricitas.io/p/the-most-important-new-inflation">Apricitas</a>, <a href="https://www.marketplace.org/2023/01/26/new-index-gets-a-more-real-time-view-of-rent-inflation/amp/">NPR</a>, <a href="https://www.washingtonpost.com/business/have-we-been-measuring-housing-inflation-all-wrong/2022/11/21/09fd9490-6999-11ed-8619-0b92f0565592_story.html">Washington Post</a>
 
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12450"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
+<a href="https://doi.org/10.1111/1540-6229.12450"><strong>Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans</strong></a><br />
 <i>With <a href = "https://sites.google.com/view/davidglancy">David Glancy</a>, <a href="https://sites.google.com/site/robertkurtzman/">Robert J. Kurtzman</a>, and Joseph Nichols</i><br />
 Real Estate Economics (2023)<br />
 
-<a href="https://trebuchet.public.springernature.app/get_content/742bd036-1638-417d-b80f-b883ca5290ff"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
+<a href="https://doi.org/10.1007/s10824-022-09459-2"><strong>Anchoring or Loss Aversion? Empirical Evidence from Art Auctions</strong></a><br />
 <i>With Kathryn Graddy, Michael Moses, Jianping Mei, and Rachel Pownall</i><br />
 Journal of Cultural Economics (2022)<br />
 
-<a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
+<a href="https://doi.org/10.1080/10511482.2020.1850014"><strong>Evaluating the Benefits of a Streamlined Refinance Program</strong></a><br />
 <i>With <a href="https://sites.google.com/site/kristophergerardishomepage/">Kristopher Gerardi</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Housing Policy Debate (2021)<br />
 
-<a href="https://academic.oup.com/restud/article/88/1/229/5889966?login=true"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
+<a href="https://doi.org/10.1093/restud/rdaa034"><strong>Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and Implications</strong></a><br />
 <i>With <a href="https://www.bostonfed.org/people/bank/christopher-foote.aspx">Christopher L. Foote</a> and <a href="https://sites.google.com/view/willenresearch/home">Paul S. Willen</a></i><br />
 Review of Economic Studies (2021)<br />
 Press: <a href="https://www.washingtonpost.com/news/wonk/wp/2017/01/16/why-these-economists-say-the-usual-explanation-for-the-financial-crisis-is-wrong/?utm_term=.0791b21bd8d0">Washington Post, January 2017</a>
