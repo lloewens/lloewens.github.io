@@ -601,13 +601,14 @@ footer {
   div.content { font-size:1.2em; }
 }
 
-/* iPhone et al */
-@media only screen and (max-device-width: 480px) {
+/* phones */
+@media only screen and (max-width: 600px) {
   header {
-    height: 120px;
+    height: auto;
     margin:0 1em 0 0.8em;
   }
-    header h1 { float:none; }
+    header h1 { float:none; height:auto; margin:20px 0 0 0; }
+    header h1 img { float:none; max-width:100%; height:auto; }
     header ul.navigation {
       float:none;
       padding-left:1em;
